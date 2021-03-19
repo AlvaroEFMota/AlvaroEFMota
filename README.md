@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlvaroEFMota
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Golang and English
-- 💞️ I’m looking to collaborate on many project
+- 💞️ I’m looking to collaborate in many project
 - 📫 How to reach me: https://www.linkedin.com/in/alvaroefmota/
 
 <!---
