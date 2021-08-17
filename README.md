@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlvaroEFMota
+- 👋 Hi, I’m Álvaro
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Rust and English
 - 💞️ I’m looking to collaborate in many project
