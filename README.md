@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Álvaro
-- 👀 I’m interested in Computer Science
+- 👋 Hi, I’m Álvaro Mota
+- 👀 I'm a Computer Scientist
 - 🌱 I’m currently learning Rust and English
 - 📫 How to reach me
 - Linkedin: https://www.linkedin.com/in/alvaroefmota/
