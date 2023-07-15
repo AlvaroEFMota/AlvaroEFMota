@@ -25,3 +25,13 @@ You can click the Preview link to take a look at your changes.
    <img align="center" alt="Alvaro-Cplus" height="40" width="50" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/cplusplus.svg">
 
   </div>
+
+  <div> 
+ 
+  <a href="https://www.instagram.com/alvaroernani/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:alvaroefmota@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alvaroefmota/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/alvaroefmota/alvaroefmota/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
