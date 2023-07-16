@@ -17,14 +17,15 @@ You can click the Preview link to take a look at your changes.
 </div>
    
   <div>
-  <img align="center" alt="Alvaro-Python" height="40" width="70" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-  <img align="center" alt="Alvaro-Cplus" height="40" width="50" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/cplusplus.svg">
-
+    <img align="center" alt="Rust Language" height="40" width="40" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
+    <img align="center" alt="Python" height="40" width="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+    <img align="center" alt="Typescript" height="40" width="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
   </div>
+  <br/>
 
   <div> 
- 
-  <a href = "mailto:alvaroefmota@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    
   <a href="https://www.linkedin.com/in/alvaroefmota/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:alvaroefmota@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 </div>
