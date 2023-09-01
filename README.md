@@ -17,7 +17,8 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div align="center"><br>
-  <img align="center" alt="Rust Language" height="30" width="40" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
+<!--   <img align="center" alt="Rust Language" height="30" width="40" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg"> -->
+  <img align="center" alt="Rust Language" height="30" width="80" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Rust_vector_logo.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
