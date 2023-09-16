@@ -2,8 +2,8 @@
 - 🎓 I'm a Bachelor in Computer Science
 - 🌱 I’m currently learning Rust and English
 - 📫 How to reach me
-- Linkedin: https://www.linkedin.com/in/alvaroefmota/
 - E-mail: alvaroefmota@gmail.com
+- Linkedin: https://www.linkedin.com/in/alvaroefmota/
 
 <!---
 AlvaroEFMota/AlvaroEFMota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
