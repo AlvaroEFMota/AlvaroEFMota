@@ -20,14 +20,14 @@ You can click the Preview link to take a look at your changes.
 <!--   <img align="center" alt="Rust Language" height="30" width="40" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg"> -->
 <!--   <img align="center" alt="Rust Language" height="30" width="80" src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Rust_vector_logo.svg"> -->
   <img align="center" alt="Rust Language" height="30" width="50" src="https://rustacean.net/assets/cuddlyferris.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Rust Language" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img align="center" alt="Rust Language" height="30" width="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
   <img align="center" alt="Rust Language" height="30" width="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
   <img align="center" alt="Rust Language" height="30" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
+  <img align="center" alt="Rust Language" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  <img align="center" alt="Rust Language" height="30" width="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
   <img align="center" alt="Rust Language" height="30" width="30" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg">
 </div>
 
