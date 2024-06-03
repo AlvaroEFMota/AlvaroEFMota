@@ -28,6 +28,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Rust Language" height="30" width="40" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
   <img align="center" alt="Rust Language" height="30" width="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
   <img align="center" alt="Rust Language" height="30" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
+  <img align="center" alt="Rust Language" height="30" width="30" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg">
 </div>
 
 ##
